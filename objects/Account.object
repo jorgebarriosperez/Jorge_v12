@@ -183,6 +183,16 @@
         <unique>false</unique>
     </fields>
     <fields>
+        <fullName>Integration_Off_del__c</fullName>
+        <externalId>false</externalId>
+        <label>Integration_Off</label>
+        <length>40</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>Jhon_Hancock__c</fullName>
         <description>Requiered by JH.</description>
         <externalId>false</externalId>
