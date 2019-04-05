@@ -173,6 +173,26 @@
         <type>Picklist</type>
     </fields>
     <fields>
+        <fullName>Integration_Off__c</fullName>
+        <externalId>false</externalId>
+        <label>Integration_Off</label>
+        <length>40</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>Integration_Off_del__c</fullName>
+        <externalId>false</externalId>
+        <label>Integration_Off</label>
+        <length>40</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>Jhon_Hancock__c</fullName>
         <description>Requiered by JH.</description>
         <externalId>false</externalId>
@@ -186,6 +206,16 @@
     <fields>
         <fullName>Jigsaw</fullName>
         <trackFeedHistory>false</trackFeedHistory>
+    </fields>
+    <fields>
+        <fullName>John_Hancock2_del__c</fullName>
+        <externalId>false</externalId>
+        <label>John Hancock2</label>
+        <length>101</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Text</type>
+        <unique>false</unique>
     </fields>
     <fields>
         <fullName>NaicsCode</fullName>
